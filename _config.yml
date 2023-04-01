@@ -35,13 +35,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : 历史行程永久保存
-    description                           : 车票自动与iCloud同步，支持车次、发到站、订单号检索
+  - title                                 : 历史车票永久保存
+    description                           : 车票自动与iCloud同步，多设备访问，永不丢失
     fontawesome_icon_name                 : archive
-    
+
+  - title                                 : 支持车票检索
+    description                           : 可按车次、发到站、订单号检索
+    fontawesome_icon_name                 : magnifying-glass
+
   - title                                 : 支持苹果钱包
     description                           : 一键将车票加入钱包，锁屏界面查看乘车信息只需轻轻一点（注：iPad不支持钱包哦）
-    fontawesome_icon_name                 : google-wallet
+    fontawesome_icon_name                 : wallet
 
   - title                                 : 多种提醒方式
     description                           : 车票票提醒、日历提醒、钱包提醒，多种提醒方式保障重要行程不再错过
@@ -49,7 +53,7 @@ features                                  :
 
   - title                                 : 无需12306账号
     description                           : 一张截图即可添加车票，摆脱账号、密码泄漏的风险
-    fontawesome_icon_name                 : picture-o
+    fontawesome_icon_name                 : image
 
 
 
