@@ -38,7 +38,7 @@ xiaohongshu_userid                        : 62f447b7000000001f0176cf
 features                                  :
 
   - title                                 : 历史车票永久保存
-    description                           : 车票自动与iCloud同步，多设备访问，永不丢失
+    description                           : 车票自动与iCloud同步，可多设备访问，永不丢失
     fontawesome_icon_name                 : archive
 
   - title                                 : 支持车票检索
