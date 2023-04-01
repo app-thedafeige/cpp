@@ -41,7 +41,7 @@ features                                  :
 
   - title                                 : 支持车票检索
     description                           : 可按车次、发到站、订单号检索
-    fontawesome_icon_name                 : 'magnifying-glass'
+    fontawesome_icon_name                 : search
 
   - title                                 : 支持苹果钱包
     description                           : 一键将车票加入钱包，锁屏界面查看乘车信息只需轻轻一点（注：iPad不支持钱包哦）
