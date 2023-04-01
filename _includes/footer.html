@@ -40,6 +40,31 @@
 			</a>
 		{% endif %}
 
+		{% if site.wechat_username %}
+			<span class="fa-stack fa-1x" style="cursor:pointer;" title="{{ site.wechat_username }}">
+				<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+				<i class="socialIconTop fab fa-weixin fa-stack-1x"></i>
+			</span>
+		{% endif %}
+
+		{% if site.weibo_username %}
+			<a href="https://weibo.com/{{ site.weibo_username }}">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-weibo fa-stack-1x"></i>
+				</span>
+			</a>
+		{% endif %}
+
+		{% if site.xiaohongshu_userid %}
+			<a href="https://www.xiaohongshu.com/user/profile/{{ site.xiaohongshu_userid }}">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<img class="socialIconTop" src="assets/xiaohongshu-icon.png" style="width: 20px; height: 20px;">
+				</span>
+			</a>
+		{% endif %}
+
 		{% if site.email_address %}
 			<a href="mailto:{{ site.email_address }}">
 				<span class="fa-stack fa-1x">
