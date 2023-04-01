@@ -631,11 +631,13 @@ footer {
 }
 
 .footerWechat {
-	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.footerWechat img {
 	width: 222px;
 	height: 81px;
-	margin-top: 10px;
-	margin-bottom: 10px;
 }
 
 .footerLinks {

@@ -34,7 +34,7 @@ xiaohongshu_userid                        : 62f447b7000000001f0176cf
 
 
 # Feature List                            Edit, add or remove features to be presented.
-# 图标来自fontawesome 5.6.3里的solid和brand
+# 图标来自fontawesome 5.15.4里的solid和brand
 features                                  :
 
   - title                                 : 历史车票永久保存
