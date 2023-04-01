@@ -624,15 +624,17 @@ footer {
 }
 
 .footerIcons {
-	padding-bottom: 70px;
 	display: flex;
 	flex: 0 0 100%;
 	justify-content: center;
 }
 
 .footerWechat {
+	width: 100%;
+	display: flex;
+	justify-content: center;
 	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-bottom: 70px;
 }
 
 .footerWechat img {
