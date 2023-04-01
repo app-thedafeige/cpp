@@ -29,7 +29,6 @@ instagram_username                        : thedafeige
 twitter_username                          : 
 github_username                           : 
 youtube_username                          :
-wechat_username                           : 公众号：那个大飞哥
 weibo_username                            : thedafeige
 xiaohongshu_userid                        : 62f447b7000000001f0176cf
 
@@ -65,7 +64,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerimage.jpeg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
