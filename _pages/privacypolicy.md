@@ -1,60 +1,49 @@
 ---
 layout: page
-title: Privacy Policy
+title: 隐私政策
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+**更新日期**  
+2023年3月17日
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+# “车票票”隐私政策
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+车票票（以下或称“我们”）非常注重保护您的个人信息及隐私。我们希望通过本隐私协议向您清晰地介绍在使用 车票票 时，我们如何收集及处理您的个人信息。
 
-<br>
+## 1. 我们收集的信息
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+**App 使用数据：**
+我们使用第三方分析工具帮助我们测量“服务”的流量和使用趋势。这些工具收集您的设备或我们的“服务”发送的信息，包括您访问的网页、附加组件和帮助我们改善“服务”的其它信息。我们收集此信息并与从其他用户收集的分析信息同时使用，使此信息不致被用于识别任何具体个人用户。
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+**诊断数据：**
+我们使用第三方工具收集 App 的崩溃数据、性能数据及其他诊断数据，用于帮助我们提升 App 的稳定性并向用户提供出色的服务。
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+**购买记录：**
+我们通过购买记录确定用户是否属于会员，并据此提供差异化功能，以及向用户提供恢复购买的能力。
 
-<br>
+## 2. 我们如何使用您的信息
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+除了我们在本“隐私政策”中描述的某些具体信息使用方法，我们还可将收到的信息用于：
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+- 开发和测试新产品和功能
+- 诊断或解决技术问题
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+## 3. 分享您的信息
 
-<br>
+除非本“政策”说明，否则，未经您同意，我们不会向 车票票（或 车票票 所属公司集团）之外的第三方出借或出售您的信息。
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+我们可能分享您信息的各方：
+我们可能与帮助我们为您提供“服务”的第三方组织（以下简称“服务提供商”）分享您的匿名信息，此信息不会与您的身份产生关联。
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+## 4. 其它网站和服务
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+我们对与我们的“服务”存在链接关系的任何网站或服务所从事的行为，包括相关网站和服务所提供的信息或内容，不承担责任。请切记，当您使用链接从我们的“服务”进入其它网站或服务时，我们的“隐私政策”不适用于这些第三方网站或服务。您在任何第三方网站或服务上（包括在我们的网站上有链接的第三方网站或服务）采取的浏览和互动行为受该第三方的规则和政策约束。此外，您同意对您授权访问您“用户内容”的任何第三方，我们不承担责任，且没有控制权。如果您正在使用第三方网站或服务，并且允许其访问您的“用户内容”，风险自行承担。
 
-<br>
+## 5. 如何联系我们
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+如果对本“隐私政策”或“服务”有任何疑问，请通过 App 内提供的联系方式与我们联系。
 
-<br>
+## 6. 关于我们的“隐私政策”的更改
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+我们可能不定期修改或更新本“隐私政策”，请定期查阅。我们可能在适当环境下为您提供其它形式的修改或更新声明。在本“隐私政策”做出任何修改后，您继续使用我们的“服务”即表示您接受此类修改。
