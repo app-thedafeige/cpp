@@ -55,7 +55,7 @@ features                                  :
 
   - title                                 : 无需12306账号
     description                           : 一张截图即可添加车票，摆脱账号、密码泄漏的风险
-    fontawesome_icon_name                 : image
+    fontawesome_icon_name                 : user-shield
 
 
 
