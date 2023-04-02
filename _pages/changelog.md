@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 更新记录
+title: 更新日志
 include_in_header: true
 ---
 
-# 更新记录
+# 更新日志
 
 ### `当前版本`
 
