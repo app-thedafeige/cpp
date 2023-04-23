@@ -1,5 +1,5 @@
 ---
-title: other content
+other content
 ---
 
 # 车票票
