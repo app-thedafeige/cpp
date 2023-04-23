@@ -1,5 +1,5 @@
 root: ./_pages/
 
 ​structure:  
-    readme: faq.md  
+    readme: changelog.md  
     summary: SUMMARY.md​
