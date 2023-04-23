@@ -2,4 +2,4 @@ root: ./_pages/
 
 ​structure:  
     readme: faq.md  
-    summary: gitbooksummary.md​
+    summary: _gitbooksummary.md​

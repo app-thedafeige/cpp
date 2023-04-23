@@ -2,6 +2,7 @@
 layout: page
 title: 建议墙
 include_in_header: true
+order: 2
 ---
 
 # 建议墙

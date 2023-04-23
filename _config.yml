@@ -118,7 +118,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - gitbooksummary.md​
+  - _gitbooksummary.md​
   - .gitbook.yaml
 
 collections:
