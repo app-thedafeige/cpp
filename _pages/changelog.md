@@ -1,5 +1,4 @@
 ---
-layout: page
 title: 更新日志
 include_in_header: true
 order: 3
@@ -47,4 +46,3 @@ order: 3
 * 多种提醒方式保障重要行程不再错过
 * 一张截图即可添加车票，摆脱账号、密码泄漏的风险
 
-\
