@@ -118,6 +118,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - ./_pages/SUMMARY.md
   - .gitbook.yaml
 
 collections:
