@@ -5,7 +5,7 @@
     {% if file.path contains 'assets/screenshot/' %}
         <script>
             $(function() {
-                $(".iphoneScreen").attr('src', '{{ file.path }}');
+                $(".iphoneScreen").attr('src', '{{ file.path | remove_first: "/" }}');
                 $(".iphoneScreen").removeClass("hidden");
                 console.log("{{ file.path }}");
             });
@@ -23,7 +23,7 @@
             <script>
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
-                    $(".screenvideo").append('<source src="{{ file.path }}" type="video/mp4">');
+                    $(".screenvideo").append('<source src="{{ file.path | remove_first: "/" }}" type="video/mp4">');
                     console.log("{{ file.path }}");
                 });
             </script>
@@ -31,7 +31,7 @@
             <script>
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
-                    $(".screenvideo").append('<source src="{{ file.path }}" type="video/ogg">');
+                    $(".screenvideo").append('<source src="{{ file.path | remove_first: "/" }}" type="video/ogg">');
                     console.log("{{ file.path }}");
                 });
             </script>
@@ -39,7 +39,7 @@
         <script>
             $(function() {
                 $(".videoContainer").removeClass("hidden");
-                $(".screenvideo").append('<source src="{{ file.path }}" type="video/webm">');
+                $(".screenvideo").append('<source src="{{ file.path | remove_first: "/" }}" type="video/webm">');
                 console.log("{{ file.path }}");
             });
         </script>
