@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : the Dafeige                                
-your_link                                 : https://app.thedafeige.com                     
+your_link                                 :                      
 your_city                                 :                                 
 email_address                             : cpp@thedafeige.com
 facebook_username                         :                                           
@@ -32,6 +32,9 @@ youtube_username                          :
 weibo_username                            : thedafeige
 xiaohongshu_userid                        : 62f447b7000000001f0176cf
 
+# 备案
+beian_icp                                 : 京ICP备2023019063号-1
+beian_gongan                              : 
 
 # Feature List                            Edit, add or remove features to be presented.
 # 图标来自fontawesome 5.15.4里的solid和brand

@@ -80,4 +80,9 @@
 			<a href="{{ site.presskit_download_link }}">Press Kit</a>
 		{% endif %}
 	</div>
+	{% if site.url contains "://app-thedafeige.github.io" and site.beian_icp %}
+	<div class="footerBeian">
+		<a href="https://beian.miit.gov.cn/" target="_blank">{{ site.beian_icp }}</a>
+	</div>
+	{% endif %}
 </footer>
