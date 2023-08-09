@@ -34,7 +34,9 @@ xiaohongshu_userid                        : 62f447b7000000001f0176cf
 
 # 备案
 beian_icp                                 : 京ICP备2023019063号-1
-beian_gongan                              : 
+beian_icp_link                            : https://beian.miit.gov.cn/
+beian_gongan                              : 京公网安备 11011402014097号
+beian_gongan_link                         : http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11011402014097
 
 # Feature List                            Edit, add or remove features to be presented.
 # 图标来自fontawesome 5.15.4里的solid和brand

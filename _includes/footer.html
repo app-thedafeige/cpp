@@ -80,9 +80,25 @@
 			<a href="{{ site.presskit_download_link }}">Press Kit</a>
 		{% endif %}
 	</div>
-	{% if site.url contains "://chepiaopiao.cn" and site.beian_icp %}
-	<div class="footerBeian">
-		<a href="https://beian.miit.gov.cn/" target="_blank">{{ site.beian_icp }}</a>
+	<div id="footerBeian" class="footerBeian" style="display: none;">
+		<a target="_blank" href="{{ site.beian_gongan_link }}" 
+			style="display: flex; flex-direction: row; align-items: center;">
+			<img style="width: 14px; height: 14px;" src="assets/gonganbeian.png" />
+			<p style="margin-left: 5px;">{{ site.beian_gongan }}</p>
+		</a>
+		<a href="{{ site.beian_icp_link }}" target="_blank">{{ site.beian_icp }}</a>
 	</div>
-	{% endif %}
+	<div class="footerCopyright">
+		© 2023 车票票 版权所有
+	</div>
+	<script>
+		$(document).ready(function() {
+			var host = window.location.hostname;
+			if (host.endsWith("chepiaopiao.cn")) {
+				$("#footerBeian").show();
+			} else {
+				$("#footerBeian").remove();
+			}
+		});
+	</script>
 </footer>
