@@ -83,8 +83,8 @@
 	<div id="footerBeian" class="footerBeian" style="display: none;">
 		<a target="_blank" href="{{ site.beian_gongan_link }}" 
 			style="display: flex; flex-direction: row; align-items: center;">
-			<img style="width: 14px; height: 14px;" src="assets/gonganbeian.png" />
-			<p style="margin-left: 5px;">{{ site.beian_gongan }}</p>
+			<img style="width: 14px; height: 14px; margin-right: 5px;" src="assets/gonganbeian.png" />
+			{{ site.beian_gongan }}
 		</a>
 		<a href="{{ site.beian_icp_link }}" target="_blank">{{ site.beian_icp }}</a>
 	</div>
@@ -94,11 +94,12 @@
 	<script>
 		$(document).ready(function() {
 			var host = window.location.hostname;
-			if (host.endsWith("chepiaopiao.cn")) {
-				$("#footerBeian").show();
-			} else {
-				$("#footerBeian").remove();
-			}
+			$("#footerBeian").show();
+			// if (host.endsWith("chepiaopiao.cn")) {
+			// 	$("#footerBeian").show();
+			// } else {
+			// 	$("#footerBeian").remove();
+			// }
 		});
 	</script>
 </footer>
