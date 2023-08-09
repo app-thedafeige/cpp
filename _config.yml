@@ -126,6 +126,7 @@ exclude:
   - .gitbook.yaml
   - ./_pages/README.md
   - ./_pages/SUMMARY.md
+  - dist/
 
 collections:
   pages:
