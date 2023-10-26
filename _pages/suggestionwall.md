@@ -2,14 +2,14 @@
 layout: page
 title: 建议墙
 include_in_header: true
-order: 2
+order: 3
 ---
 
 # 建议墙
 
-[👉 点击查看「需求池及进展」](https://thedafeige.feishu.cn/share/base/view/shrcno49gLU8C0WFM5OJwQqAx8b)
+[👉 长按查看「需求池及进展」](https://thedafeige.feishu.cn/share/base/view/shrcno49gLU8C0WFM5OJwQqAx8b)
 
-[⭐️ 还有什么新点子或者建议吗？欢迎填写「需求收集」](https://thedafeige.feishu.cn/share/base/form/shrcngDcI7ZGeYey4y2vDesU4Ld)
+[⭐️ 有新点子或建议？长按填写「需求收集」](https://thedafeige.feishu.cn/share/base/form/shrcngDcI7ZGeYey4y2vDesU4Ld)
 
 ## 1. 开发中
 

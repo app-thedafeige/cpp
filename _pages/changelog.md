@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 更新日志
-include_in_header: true
-order: 3
+include_in_header: false
+order: 4
 ---
 
 # 更新日志

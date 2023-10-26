@@ -2,7 +2,7 @@
 layout: page
 title: 隐私政策
 include_in_header: false
-order: 4
+order: 5
 ---
 
 **更新日期**
