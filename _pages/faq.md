@@ -23,7 +23,7 @@ order: 1
 
 * 本人车票页，截图分享到车票票【可一次添加多张车票，或添加由他人代购的车票】
 
-<img src="../assets/ticket-to-cpp-2.png" width="360" height="640"/>
+<img src="../assets/ticket-to-cpp-2.png" width="360" height="373"/>
 
 #### 1.2 支付宝12306小程序
 
@@ -36,7 +36,7 @@ order: 1
 
 * 订单详情页，截图分享到车票票
 
-<img src="../assets/ticket-to-cpp-4.png" width="360" height="640"/>
+<img src="../assets/ticket-to-cpp-4.png" width="360" height="373"/>
 
 ### 2. 12306订单详情分享到车票票打不开“截图识别车票”弹窗
 
