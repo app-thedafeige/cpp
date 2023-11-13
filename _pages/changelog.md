@@ -2,10 +2,14 @@
 layout: page
 title: 更新日志
 include_in_header: false
-order: 4
+order: 5
 ---
 
 # 更新日志
+
+## V1.2.3(3) - 2023.11.12 周日
+
+支持修改 App 图标。
 
 ## V1.2.2(3) - 2023.10.28 周六
 
