@@ -2,7 +2,7 @@
 layout: page
 title: 更新日志
 include_in_header: false
-order: 5
+order: 6
 ---
 
 # 更新日志
