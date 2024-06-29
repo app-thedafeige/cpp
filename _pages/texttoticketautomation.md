@@ -15,7 +15,7 @@ order: 6
 
 抓取新数据，选择“推送”。
 
-<img src="../assets/text-to-ticket-automation-1.png" width="580" height="416"/>
+<img src="../assets/text-to-ticket-automation-1.png" width="480" height="344"/>
 
 ## 2. 12306绑定邮箱
 
@@ -25,7 +25,7 @@ order: 6
 
 👉 邮件可能在垃圾邮件中，需移到收件箱，避免后续收不到邮件通知。
 
-<img src="../assets/text-to-ticket-automation-2.png" width="580" height="416"/>
+<img src="../assets/text-to-ticket-automation-2.png" width="480" height="344"/>
 
 ## 3. 配置自动化
 
@@ -38,15 +38,15 @@ order: 6
 * 发件人：12306@rails.com.cn
 * 主题包含：网上购票系统
 
-<img src="../assets/text-to-ticket-automation-3-1.png" width="580" height="416"/>
+<img src="../assets/text-to-ticket-automation-3-1.png" width="480" height="344"/>
 
 ↓ 点击“新建空白自动化”、“添加操作”。搜索“获取文本”，选择“从输入中获取文本”。
 
-<img src="../assets/text-to-ticket-automation-3-2.png" width="580" height="416"/>
+<img src="../assets/text-to-ticket-automation-3-2.png" width="480" height="344"/>
 
 ↓ 接着搜索“车票票”，选择“文本提取车票”。关闭“运行时显示”开关，点击右上角“完成”。
 
-<img src="../assets/text-to-ticket-automation-3-3.png" width="580" height="416"/>
+<img src="../assets/text-to-ticket-automation-3-3.png" width="480" height="344"/>
 
 ## 测试一下（可选）
 
