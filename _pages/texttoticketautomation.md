@@ -31,7 +31,9 @@ order: 6
 
 👉 设置邮箱后会收到核验邮件，请及时核验。
 
-👉 邮件可能在垃圾邮件中，请移至收件箱，避免后续收不到邮件通知。
+👉 邮件可能在“垃圾邮件”中，请移至“收件箱”，避免后续收不到邮件通知。
+
+👉 如果你为邮箱设置了自定义规则，收到12306邮件后自动移至某个文件夹，请取消此规则，确保12306邮件在“收件箱”中，否则“自动化”将无法触发。
 
 <div style="width: 400; overflow: auto; overflow-y: hidden; white-space: nowrap">
 <img src="../assets/text-to-ticket-automation-2-1.png" width="240" height="520"/>
