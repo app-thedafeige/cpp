@@ -5,7 +5,7 @@ include_in_header: false
 order: 8
 ---
 
-# Guidance for having train trips in China
+# Guide to Taking Train Trips in China
 
 **by FoodieLT**
 
@@ -27,7 +27,7 @@ Be advised that providing your **PASSPORT NUMBER** during the purchase, all trai
 
 After purchasing, passengers don't need to take any physical tickets at stations. Only need travel documents (Passports, Permanent Residence ID cards, Citizen ID cards).
 
-> PS: However passengers can print physical receipts, which is printed on ticket paper, and travel information paper on the self-service machine.
+> PS: However, passengers can print physical receipts, which are printed on ticket paper, and "Trip Information Reminders" sheets using the self-service machine.
 
 For more questions, please refer to the [12306 FAQ](https://www.12306.cn/en/faq.html){:target="_self"}.
 
@@ -69,7 +69,7 @@ You made it! Now enjoy your train trip!
 
 # 中国鉄道旅行ガイド
 
-[> English Version](#guidance-for-having-train-trips-in-china){:target="_self"}
+[> English Version](#guide-to-taking-train-trips-in-china){:target="_self"}
 
 ## 1. 切符の購入
 
@@ -87,7 +87,7 @@ You made it! Now enjoy your train trip!
 
 購入後、乗客は駅で物理的な切符を受け取る必要はありません。旅行書類（パスポート、永住者IDカード、国民IDカード）のみで乗車が可能です。
 
-> 備考：ただし、乗客は経費精算用の物理的な領収書と旅行情報の用紙を、セルフサービス機で印刷することができます。
+> 備考：ただし、乗客は経費精算用の物理的な領収書と「旅行情報リマインダー」シートを、セルフサービス機で印刷することができます。
 
 詳細については、[12306 FAQ](https://www.12306.cn/en/faq.html){:target="_self"} を参照してください。
 
