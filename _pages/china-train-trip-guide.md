@@ -9,7 +9,7 @@ order: 8
 
 **by FoodieLT**
 
-[> 日本語版](#中国での列車旅行ガイド){:target="_self"}
+[> 日本語版](#中国鉄道旅行ガイド){:target="_self"}
 
 ## 1. Order tickets
 
@@ -27,7 +27,7 @@ Be advised that providing your **PASSPORT NUMBER** during the purchase, all trai
 
 After purchasing, passengers don't need to take any physical tickets at stations. Only need travel documents (Passports, Permanent Residence ID cards, Citizen ID cards).
 
-**PS:** However passengers can print physical receipts, which is printed on ticket paper, and travel information paper on the self-service machine.
+> PS: However passengers can print physical receipts, which is printed on ticket paper, and travel information paper on the self-service machine.
 
 For more questions, please refer to the [12306 FAQ](https://www.12306.cn/en/faq.html){:target="_self"}.
 
@@ -67,7 +67,7 @@ You made it! Now enjoy your train trip!
 
 -------
 
-# 中国での列車旅行ガイド
+# 中国鉄道旅行ガイド
 
 [> English Version](#guidance-for-having-train-trips-in-china){:target="_self"}
 
@@ -87,7 +87,7 @@ You made it! Now enjoy your train trip!
 
 購入後、乗客は駅で物理的な切符を受け取る必要はありません。旅行書類（パスポート、永住者IDカード、国民IDカード）のみで乗車が可能です。
 
-**備考：**ただし、乗客は物理的なレシートを自己印刷機で印刷することができます。
+> 備考：ただし、乗客は経費精算用の物理的な領収書と旅行情報の用紙を、セルフサービス機で印刷することができます。
 
 詳細については、[12306 FAQ](https://www.12306.cn/en/faq.html){:target="_self"} を参照してください。
 
