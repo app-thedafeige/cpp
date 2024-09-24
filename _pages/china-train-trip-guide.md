@@ -19,7 +19,7 @@ There are serval methods for foreigners to order China Railways (aka. CR) train 
 - 12306 mobile app - "Railway 12306" (铁路 12306) (Official, English version available)
 - China Railway hotline - +86 12306 (Official, English service available)
 - automatic ticketing machines or ticketing counters at railway stations
-- and other 3rd party platforms (additional charges may apply, not recommended)
+- and other 3rd party platforms (Additional charges may apply, not recommended)
 
 Be advised that providing your **PASSPORT NUMBER** during the purchase, all train ticket orders require your travel documents.
 
@@ -27,7 +27,7 @@ Be advised that providing your **PASSPORT NUMBER** during the purchase, all trai
 
 After purchasing, passengers don't need to take any physical tickets at stations. Only need travel documents (Passports, Permanent Residence ID cards, Citizen ID cards).
 
-**PS:** However passengers can print physical receipts, which is printed on ticket paper, and Travel information paper on the self-service machine.
+**PS:** However passengers can print physical receipts, which is printed on ticket paper, and travel information paper on the self-service machine.
 
 For more questions, please refer to the [12306 FAQ](https://www.12306.cn/en/faq.html){:target="_self"}.
 
@@ -39,7 +39,7 @@ Riding trains in China is very similar to taking planes at airports. It contains
 
 For most CR-Operating train stations, passengers are required to show their identifications to prevent scalper reselling train tickets. Those ID checkpoints are mostly set at the entry of train stations. Foreign passengers should provide their **PASSPORTS** to security officers **AT MANUAL CHANNELS** where passports will be scanned and verified.
 
-> Some small stations do not verifty passenger identities at entries.
+> Some small stations may not verify passenger identities at entries.
 
 ## Security check
 
@@ -85,7 +85,7 @@ You made it! Now enjoy your train trip!
 
 **物理的な切符は不要**
 
-購入後、乗客は駅で物理的な切符を受け取る必要はありません。旅行書類（パスポート、永住者IDカード、市民IDカード）のみで乗車が可能です。
+購入後、乗客は駅で物理的な切符を受け取る必要はありません。旅行書類（パスポート、永住者IDカード、国民IDカード）のみで乗車が可能です。
 
 **備考：**ただし、乗客は物理的なレシートを自己印刷機で印刷することができます。
 

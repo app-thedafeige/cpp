@@ -7,9 +7,9 @@ order: 3
 
 # 建议墙
 
-[👉 长按查看「需求池及进展」](https://thedafeige.feishu.cn/share/base/view/shrcno49gLU8C0WFM5OJwQqAx8b)
+[👉 查看「需求池及进展」](https://thedafeige.feishu.cn/share/base/view/shrcno49gLU8C0WFM5OJwQqAx8b){:target="_self"}
 
-[⭐️ 有新点子或建议？长按填写「需求收集」](https://thedafeige.feishu.cn/share/base/form/shrcngDcI7ZGeYey4y2vDesU4Ld)
+[⭐️ 有新点子或建议？欢迎填写「需求收集」](https://thedafeige.feishu.cn/share/base/form/shrcngDcI7ZGeYey4y2vDesU4Ld){:target="_self"}
 
 ❤️ 如希望沟通需求细节，欢迎邮件与我联系。
 

@@ -41,8 +41,8 @@ order: 2
 
 ### 苹果官方文档
 
-* [设置“家人共享”（长按查看）](https://support.apple.com/zh-cn/HT201088)
-* [如何与家人共享App和购买项目（长按查看）](https://support.apple.com/zh-cn/HT201079)
+* [设置“家人共享”](https://support.apple.com/zh-cn/HT201088){:target="_self"}
+* [如何与家人共享App和购买项目](https://support.apple.com/zh-cn/HT201079){:target="_self"}
 
 ## 2. 使用已共享的购买项目
 
