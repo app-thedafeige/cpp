@@ -13,7 +13,7 @@ order: 6
 
 打开系统设置，邮件 > 账户，点击“添加账户”。
 
-抓取新数据，选择“推送”。
+抓取新数据，选择“推送”。请务必点开确认一下当前添加的账户抓取新数据的方式为“推送”。
 
 👉 推荐添加 `@icloud.com`、`@qq.com`、`@163.com`、`@outlook.com` 等支持「推送」的邮箱，收取新邮件更及时。
 
@@ -23,6 +23,7 @@ order: 6
 <img src="../assets/text-to-ticket-automation-1-1.png" width="240" height="520"/>
 <img src="../assets/text-to-ticket-automation-1-2.png" width="240" height="520"/>
 <img src="../assets/text-to-ticket-automation-1-3.png" width="240" height="520"/>
+<img src="../assets/text-to-ticket-automation-1-4-0929.png" width="240" height="520"/>
 </div>
 
 ## 2. 12306绑定邮箱
@@ -71,9 +72,12 @@ order: 6
 
 点击“输入”，选择“输入快捷指令的信息”。
 
+点击“输入快捷指令的信息”，选择“内容”。
+
 <div style="width: 400; overflow: auto; overflow-y: hidden; white-space: nowrap">
 <img src="../assets/text-to-ticket-automation-3-6.png" width="240" height="520"/>
 <img src="../assets/text-to-ticket-automation-3-7.png" width="240" height="520"/>
+<img src="../assets/text-to-ticket-automation-3-8-0929.png" width="240" height="520"/>
 </div>
 
 点击上一步页面底部的搜索框，搜索“车票票”，选择“文本提取车票”。
@@ -81,8 +85,8 @@ order: 6
 关闭“运行时显示”开关，点击右上角“完成”。
 
 <div style="width: 400; overflow: auto; overflow-y: hidden; white-space: nowrap">
-<img src="../assets/text-to-ticket-automation-3-8.png" width="240" height="520"/>
-<img src="../assets/text-to-ticket-automation-3-9.png" width="240" height="520"/>
+<img src="../assets/text-to-ticket-automation-3-9-0929.png" width="240" height="520"/>
+<img src="../assets/text-to-ticket-automation-3-10-0929.png" width="240" height="520"/>
 </div>
 
 至此，所有配置已完成。
@@ -90,3 +94,5 @@ order: 6
 ## 测试一下（可选）
 
 可以买一张8天以后的车票（退票免手续费），测试一下整体流程是否正常。
+
+用户反馈，收到候补兑现成功的邮件时，无法触发自动化，可能跟收到邮件时手机处于锁屏状态有关。
