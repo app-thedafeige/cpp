@@ -2,7 +2,7 @@
 layout: page
 title: 文本提取车票
 include_in_header: false
-order: 5
+order: 6
 ---
 
 # 文本提取车票

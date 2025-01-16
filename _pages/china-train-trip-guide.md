@@ -2,7 +2,7 @@
 layout: page
 title: China Train Trip Guide
 include_in_header: false
-order: 8
+order: 10
 ---
 
 # Guide to Taking Train Trips in China

@@ -2,7 +2,7 @@
 layout: page
 title: 从12306邮件自动提取车票
 include_in_header: false
-order: 6
+order: 7
 ---
 
 # 从12306邮件自动提取车票
