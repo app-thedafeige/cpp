@@ -5,9 +5,61 @@ include_in_header: false
 order: 8
 ---
 
-# 更新日志
+# 更新日志 Changelog
 
-## V1.4.6(2)
+## V1.5.0(3) - 2025.5.11 周日 Sun
+
+**简体中文**
+
+- 弱化行程页底部登录过期提示条，避免对用户造成打扰
+- 车票卡片新增“广东城际”车票样式
+- 修复可能导致App闪退的问题
+
+**English**
+
+- Softened the expired login reminder at the bottom of the itinerary page to reduce user disruption
+- Added a new "Guangdong Intercity" ticket style to ticket cards
+- Fixed an issue that could cause the app to crash
+
+## V1.4.9(5) - 2025.5.1 周四 Thu
+
+**简体中文**
+
+- 支持关联中国铁路账号，自动同步车票
+- 车票二维码支持设置URL类型，点击可跳转到其他App
+- 运营商支持沙特铁路
+- 新增2枚App图标
+- 车票增加“里程”字段
+
+**英文**
+
+- Added support for linking China Railway accounts to auto-sync tickets
+- Ticket QR codes now support URL type and can open other apps when tapped
+- Added support for Saudi Arabia railway operator
+- Added 2 new app icons
+- Added "Mileage" field to tickets
+
+## V1.4.8(4) - 2025.3.12 周三 Wed
+
+**简体中文**
+
+- 本地化支持英语
+- 票夹页筛选项默认选择有效车票
+- 截图识别，支持敬老版订单详情、计次票预约详情
+- 国铁席别增加“软卧代软座”，广东城际席别增加“自由席”
+
+**英文**
+
+- Added localization support for English
+- The filter on the Past Tickets page now defaults to valid tickets
+- Screenshot recognition now supports Elderly Edition order details and Multi-ride Ticket reservation details
+- Added "Soft Sleeper as Soft Seat" to China Railway seat types and "Non-reserved Seat" to Guangdong Intercity seat types
+
+## V1.4.7(1) - 2025.1.27 周一
+
+修复“较早版本升级到新版本时数据库可能迁移失败导致App闪退”的问题。
+
+## V1.4.6(2) - 2025.1.17 周五
 
 - 修复小组件加载不出内容的问题
 - 设置页增加Apple Watch功能说明
