@@ -31,7 +31,7 @@ order: 8
 - 新增2枚App图标
 - 车票增加“里程”字段
 
-**英文**
+**English**
 
 - Added support for linking China Railway accounts to auto-sync tickets
 - Ticket QR codes now support URL type and can open other apps when tapped
@@ -48,7 +48,7 @@ order: 8
 - 截图识别，支持敬老版订单详情、计次票预约详情
 - 国铁席别增加“软卧代软座”，广东城际席别增加“自由席”
 
-**英文**
+**English**
 
 - Added localization support for English
 - The filter on the Past Tickets page now defaults to valid tickets
