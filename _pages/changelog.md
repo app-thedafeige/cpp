@@ -7,6 +7,158 @@ order: 8
 
 # 更新日志 Changelog
 
+## V1.5.8(1) - 2025.9.30 周二 Tue
+
+**简体中文**
+
+- 桌面小组件适配iOS 26透明、调色模式
+- 修复watchOS 11表盘复杂功能/智能叠放小组件不显示行程的问题
+- 更新车站数据（含广东城际新开线路）
+
+**English**
+
+- Home screen widgets adapted for iOS 26 clear and tint modes
+- Fixed an issue where watchOS 11 complications / Smart Stack widgets did not display trips
+- Updated station data (including newly opened Guangdong Intercity lines)
+
+## V1.5.7(1) - 2025.9.23 周二 Tue
+
+**简体中文**
+
+- 适配iOS 26
+- 实时活动液态玻璃效果支持深色/浅色/关闭
+- 优化统计功能
+- 优化中国铁路登录功能
+
+**English**
+
+- Support for iOS 26
+- Live Activities liquid glass effect now supports Dark / Light / Off modes
+- Improved statistics feature
+- Enhanced China Railway login
+
+## V1.5.6(4) - 2025.9.12 周五 Fri
+
+**简体中文**
+
+- 统计详情页大改版，功能更加丰富立体
+- 金额统计功能多币种支持按汇率折算为首选货币
+- 优化票夹页性能，修复可能引起App闪退的问题
+- 铁路运营商增加LCR（老中铁路）
+
+**English**
+
+- Major revamp of the statistics details page with richer and more comprehensive features
+- Multi-currency support for amount statistics, with conversion to preferred currency based on exchange rates
+- Optimized performance of the Past Tickets page and fixed potential crash issues
+- Added railway operator: LCR (Laos-China Railway)
+
+## V1.5.5(4) - 2025.8.12 周三 Wed
+
+**简体中文**
+
+- 车票支持录入驱动方式、列车型号、车组编号、车厢型号、车厢编号
+- 车票编辑页支持一键获取中国国铁G/D/C车次的车组信息
+- 新增北京市郊铁路，及法国、西班牙、意大利、英国、爱尔兰、美国、加拿大常见铁路运营商（共43个）
+- 新增“数据补全”功能，支持批量修改车票、批量获取车组信息（入口：设置 > 数据补全）
+
+**English**
+
+- Tickets now support entering propulsion type, trainset model, trainset number, vehicle model, and vehicle number
+- Ticket edit page now supports one-tap retrieval of trainset information for China Railway G/D/C services
+- Added Beijing Suburban Railway and common railway operators from France, Spain, Italy, the UK, Ireland, the US, and Canada — 43 operators in total
+- New "Data Fixer" feature: batch edit tickets and batch retrieve trainset information (Menu: Settings > Data Fixer)
+
+## V1.5.4(6) - 2025.7.8 周二 Tue
+
+**简体中文**
+
+地图模块
+- 拆分为独立Tab，支持隐藏站名，增加地区、里程统计
+
+车票编辑页
+- 自定义信息支持从列表选择之前录入过的内容
+
+票夹页
+- “分组”移入“筛选”浮层，支持选择多个分组
+- 日期选择浮层，选择“全部”时，开始日期设为最早一张车票的日期
+
+其他
+- 互为发到站的线路合并为一条来统计
+- 优化时刻表查询、截图识别车票、钱包凭证导入车票功能
+- 修复“中国铁路找回更早车票功能提示系统忙”的问题
+
+**English**
+
+Map Module
+- Split into a separate tab, now supports hiding station names and includes region and mileage statistics
+
+Ticket Editing Page
+- Custom info fields now support selecting previously entered values from a list
+
+Past Tickets Page
+- "Grouping" moved into the "Filter" panel, now supports selecting multiple groups
+- In the date picker panel, selecting "All" will set the start date to the earliest ticket date
+
+Other
+- Routes with reversed origin/destination are now merged for statistics
+- Optimized timetable lookup, screenshot-based ticket recognition, and importing wallet passes as tickets
+- Fixed the issue where "Retrieve older tickets for China Railway" showed a "System busy" error
+
+## V1.5.3(2) - 2025.6.12 周四 Thu
+
+**简体中文**
+
+- 支持找回最近1年的中国铁路车票
+- 支持通过钱包凭证导入车票（目前仅适配部分App的凭证）
+- 手表App行程卡片上新增乘客姓名展示 
+
+**English**
+
+- Now supports retrieving China Railway tickets from the past year
+- Train tickets can now be imported from Wallet passes (currently supports passes from selected apps only)
+- Passenger names are now shown on trip cards in the Watch app
+
+## V1.5.2(3) - 2025.6.6 周四 Thu
+
+**简体中文**
+
+时刻表添加车票
+- 修复功能不可用的问题
+- 列表页支持显示“复兴号”、“动感号”标识
+- 今明两天车次，添加车票时支持向前调整日期
+
+中国铁路车票同步
+- 修复“仅同步本人车票时，他人车票会被标记为‘已删除’”的问题
+
+**English**
+
+Add Tickets from Timetable
+- Fixed the issue where the feature was unavailable
+- "Fuxing" and "Vibrant Express" badges are now shown in the list view
+- For today's and tomorrow's trains, you can now backdate the travel date when adding tickets
+
+China Railway Ticket Sync
+- Fixed the issue where tickets of others were marked as "Deleted" when syncing only personal tickets
+
+## V1.5.1(5) - 2025.5.21 周四 Thu
+
+**简体中文**
+
+- 支持同步中国铁路本人车票（含他人代买的车票）
+- 优化车票同步逻辑，默认不同步本地已删除的车票（可手动同步）
+- 中国铁路车票列表页支持隐藏退改失效车票
+- 票夹页支持筛选乘客
+- 更新车站数据
+
+**English**
+
+- Support synchronization of personal train tickets from China Railway (including tickets purchased by others on your behalf)
+- Optimized ticket synchronization logic, by default, deleted local tickets will not sync (manual sync is available)
+- The China Railway ticket list page supports hiding invalid tickets
+- The "Past Tickets" page now supports passenger filtering
+- Updated station data
+
 ## V1.5.0(3) - 2025.5.11 周日 Sun
 
 **简体中文**
