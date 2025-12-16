@@ -7,6 +7,52 @@ order: 8
 
 # 更新日志 Changelog
 
+## V1.6.0(5) - 2025.12.16 周二 Tue
+
+**简体中文**
+
+- 实时活动支持指定时间自动开启（iOS 26及以上）
+- 下车提醒支持设置闹钟（iOS 26及以上）、填写备注；按距离提醒改为发车后才可设置
+- 出行提醒、实时活动、小组件、刚刚结束的行程支持自定义时间
+- 小号小组件，底部增加时刻表、票夹按钮（iOS 17及以上）
+- 正晚点调整，早到时间放宽至计划时间前3小时内
+- 进一步优化国铁纸质车票识别
+- 修复会员状态可能展示不准确的问题
+
+**English**
+
+- Live Activities can now be scheduled to start automatically at a specified time (iOS 26 and later)
+- Get off reminders now support alarms (iOS 26 and later) and notes; distance-based reminders can only be set after departure
+- Travel reminders, Live Activities, widgets, and recently ended itineraries now support custom times
+- Small widget now includes timetable and past tickets buttons at the bottom (iOS 17 and later)
+- Early arrival is now allowed up to 3 hours before the scheduled time
+- Further improvements to China Railway paper ticket recognition
+- Fixed an issue where membership status might be displayed inaccurately
+
+## V1.5.9(5) - 2025.11.5 周三 Wed
+
+**简体中文**
+
+- 支持国铁纸质车票扫描录入
+- 时刻表添加车票支持按车次查询
+- 添加车票时支持选择分组
+- 优化编辑车票时日期、时间录入体验
+- 修复“找回国铁最近1年车票的功能，页面可能会错误地显示没有车票”的问题
+- 修复“iOS 26，自定义车站页，点击地图上的火车图标不显示车站信息”的问题
+- 优化港铁车次判断
+- 更新车站数据
+
+**English**
+
+- Added support for scanning and importing China Railway paper tickets
+- Timetable now supports searching tickets by train number
+- Added the ability to choose a group when adding tickets
+- Improved date and time input experience when editing tickets
+- Fixed an issue where “Retrieve China Railway tickets from the past year” might incorrectly show no tickets
+- Fixed an issue where tapping the train icon on the map in the custom station page (iOS 26) did not display station information
+- Improved MTR train number recognition
+- Updated station data
+
 ## V1.5.8(1) - 2025.9.30 周二 Tue
 
 **简体中文**
