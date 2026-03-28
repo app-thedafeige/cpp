@@ -5,6 +5,10 @@ include_in_header: false
 order: 8
 ---
 
+# 车票票3周年庆 🎉
+
+[👉 查看详情](../pages/cpp03.html){:target="_self"}
+
 # 更新日志 Changelog
 
 ## V1.6.0(5) - 2025.12.16 周二 Tue
