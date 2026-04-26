@@ -5,11 +5,49 @@ include_in_header: false
 order: 8
 ---
 
-# 车票票3周年庆 🎉
-
-[👉 查看详情](../pages/cpp03.html){:target="_self"}
-
 # 更新日志 Changelog
+
+## V1.6.2(11) - 2026.4.24 周五 Fri
+
+**简体中文**
+
+1. 地图页：支持切换样式、隐藏路线、显示访问次数；支持飞机
+2. 票夹页：支持滑动切换tab，长按唤起菜单
+3. 优化：机场、航司、机型弹窗；增加部分已关闭机场、已停运航司；支持自定义机型
+4. 机票：支持导入部分其他App数据
+5. 火车票：文本提取车票支持选择txt文件
+6. 修复：动车组车组信息查询，复车次查询不到数据的问题
+7. 修复：中国铁路找回更早车票数据较多时结果不完整的问题
+8. 苹果钱包凭证，正面显示席别
+9. 新增一枚用户投稿图标
+
+**English**
+
+1. Map: Added support for switching map styles, hiding routes, and displaying visit counts; added airplane tracking support.
+2. Past Tickets: Added swipe-to-switch tabs and long-press to bring up the menu.
+3. Optimization: Improved pop-ups for airports, airlines, and aircraft types; added several closed airports and defunct airlines; added support for custom aircraft types.
+4. Flights: Added support for importing data from select third-party apps.
+5. Trains: Text-based ticket extraction now supports selecting .txt files.
+6. Fix: Resolved an issue where EMU (Electric Multiple Unit) train info queries failed to return data for multiple train numbers.
+7. Fix: Resolved an issue where retrieving older China Railway tickets resulted in incomplete data when the data volume was large.
+8. Apple Wallet Passes: Seat class is now displayed on the front of the pass.
+9. New: Added a new user-submitted app icon.
+
+## V1.6.1(5) - 2026.2.14 周六 Sat
+
+**简体中文**
+
+- 初步支持机票功能
+- 优化实时活动预约功能
+- 优化正晚点调整功能
+- 更新车站数据
+
+**English**
+
+- Initial support for flight ticket features
+- Optimized Live Activities reservation functionality
+- Improved punctuality and delay adjustment features
+- Updated station database
 
 ## V1.6.0(5) - 2025.12.16 周二 Tue
 

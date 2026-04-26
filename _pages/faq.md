@@ -7,6 +7,24 @@ order: 1
 
 # FAQ
 
+## 会员&数据
+
+### 多个设备会员权益、数据是否同步？
+
+是的，一个设备开通会员，其他设备登录相同的Apple ID，在车票票会员购买页点击右下角“恢复购买”即可恢复会员，稍等一会儿，数据会从iCloud同步下来。
+
+### Are membership benefits and data synced across multiple devices?
+
+Yes. Once a membership is activated on one device, you can use it on others by logging into the same Apple ID. Simply go to the membership purchase page in eTicket and tap "Restore Purchase" in the bottom right corner. After a brief moment, your data will automatically sync from iCloud.
+
+### 卸载重装/换新设备后，如何恢复会员/数据？
+
+卸载重装/换新设备后，在车票票会员购买页点击右下角“恢复购买”即可恢复会员，稍等一会儿，数据会从iCloud同步下来。
+
+### How do I restore my membership/data after reinstalling or switching to a new device?
+
+After reinstalling the app or switching to a new device, navigate to the membership purchase page in eTicket and tap "Restore Purchase" in the bottom right corner. This will reactivate your membership, and your data will be synced down from iCloud shortly thereafter.
+
 ## 车票识别
 
 ### 1. 如何将车票导入车票票
@@ -74,29 +92,33 @@ order: 1
 
 ## 钱包
 
-### 1. 车票添加到车票票了，怎么添加到钱包/日历呢？
+### 1. 钱包凭证样式有些简陋，能否做成类似App里的那种车票样式？
+
+很遗憾不能。苹果钱包凭证开放的能力极其有限，每种类型的钱包凭证都有固定样式，交通凭证只能简单调整一下排版、颜色，其他部分都无法调整。
+
+### 2. 车票添加到车票票了，怎么添加到钱包/日历呢？
 
 未过期车票，左下角第1个按钮添加到日历，第2个按钮添加到钱包。已过期车票，左下角只有1个按钮，添加到钱包。
 
-### 2. iPad找不到添加到钱包的入口
+### 3. iPad找不到添加到钱包的入口
 
 iPad系统没有钱包凭证功能，所以不支持将车票添加到钱包哦。可以使用iPhone录入车票并添加到钱包（车票左下角第2个图标），或者iPad录入车票后通过iCloud同步到登录同一个Apple ID的iPhone，然后再添加到钱包。
 
-### 3. 为什么钱包凭证底部有一大片空白区域？
+### 4. 为什么钱包凭证底部有一大片空白区域？
 
 钱包凭证的整体样式是系统定义好的，底部这片区域用于展示二维码，但由于电子火车票的二维码是动态生成的，且其生成算法是不公开的，所以无法展示二维码也就留空了。
 
-### 4. 车票添加到钱包/日历后，我又手动修改了车票内容，但钱包/日历里的信息没有更新
+### 5. 车票添加到钱包/日历后，我又手动修改了车票内容，但钱包/日历里的信息没有更新
 
 手动修改车票内容后，再点击一下车票左下角的钱包/日历按钮，就可以更新啦。（后面会优化一下，修改车票内容后主动提示用户是否更新钱包/日历中的信息）
 
-### 5. 车票添加到钱包后，锁屏界面没有展示
+### 6. 车票添加到钱包后，锁屏界面没有展示
 
 临近发车或在车站附近时，车票会自动展示在锁屏界面（具体展示条件由苹果系统决定）。
 
 如满足上述条件，但车票仍未展示在锁屏界面，请打开钱包App，找到这张车票，点击右上角3个点菜单中的“凭证详细信息”，将“在锁定屏幕上显示”的开关打开。
 
-### 6. 屏幕锁定时，锁屏界面查看车票详情需要解锁，有点不方便
+### 7. 屏幕锁定时，锁屏界面查看车票详情需要解锁，有点不方便
 
 请打开系统设置 > 面容ID与密码 > 锁定时允许访问，找到“钱包”，将开关打开。（页面比较长，选项在比较靠下的位置）
 
